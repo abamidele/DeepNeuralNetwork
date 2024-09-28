@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
 
 import numpy as np
 
@@ -63,7 +61,7 @@ if __name__ == "__main__":
         print(f"Input: {X[i]}, Predicted Output: {neuron.predict(X[i])}")
 
 
-# In[ ]:
+
 
 
 
