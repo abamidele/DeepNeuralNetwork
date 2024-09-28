@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
 
 import numpy as np
@@ -45,7 +44,6 @@ if __name__ == "__main__":
     # Example: You can adjust weights and threshold to simulate other logic gates (OR, NOT)
 
 
-# In[ ]:
 
 
 
